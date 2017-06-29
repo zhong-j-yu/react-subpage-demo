@@ -1,0 +1,31 @@
+body{
+  max-width: 400px;
+  margin: auto;
+  vertical-align: baseline;
+  outline : 1px solid #aaa;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+h1{
+  border-bottom: 1px solid #aaa;
+  margin-top: 0;
+}
+
+button{
+  font-size: 24px;
+}
+
+input{
+  font-size: 24px;
+}
+
+textarea{
+  font-size: 24px;
+  width: 96%;
+}
+
+.error{
+  color:red;
+  font-weight: bold;
+}
